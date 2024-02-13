@@ -11,7 +11,7 @@ import org.insurgencedev.insurgencesets.libs.fo.Common;
 @ISetsAddon(name = "RivalBoostAddon", version = "1.0.1", author = "InsurgenceDev", description = "All-in-one tool boost")
 public class RivalBoostsAddon extends InsurgenceSetsAddon {
 
-    public static final String NAMESPACE = "Rival";
+    public static final String NAMESPACE = "RIVAL";
 
     @Override
     public void onAddonReloadablesStart() {
